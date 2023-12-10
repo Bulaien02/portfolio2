@@ -2,16 +2,16 @@ import React from "react";
 
 const achievementsList = [
     {
-        metric: "Projects",
-        value: "10+",
+        metric: "Age",
+        value: "21",
     },
     {
-        metric: "Awards",
-        value: "3+",
+        metric: "MBTI",
+        value: "INFJ",
     },
     {
-        metric: "Years",
-        value: "1",
+        metric: "From",
+        value: "Penang",
     }
 
 ];
